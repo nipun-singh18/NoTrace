@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # NoTrace
 Find the device. Solve the mystery. An iOS puzzle game built with Swift that tests your logic, reflexes, and patience.
 =======
@@ -54,4 +54,3 @@ Modern social media has reduced human attention span to less than that of a gold
 **Nipun Singh**
 *Chitkara University*
 *2026*
->>>>>>> 241f9b7 (Initial commit: Added NoTrace app code)
